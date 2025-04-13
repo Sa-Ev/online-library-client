@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Директории и файлы, создаваемые при сборке
+/dist
+/build
+
+# Файлы, генерируемые редакторами (например, для VS Code)
+.vscode/
+
+# Логи и временные файлы
+*.log
+*.env.local
+*.env.development.local
+*.env.production.local
+
+# Файлы конфигурации IDE и редакторов
+.idea/
+
+# Операционные системы
+.DS_Store   # Для macOS
+Thumbs.db   # Для Windows
+
+# Прочие временные файлы и кэши
+.cache/
+*.bak
